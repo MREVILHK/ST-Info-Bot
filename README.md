@@ -58,10 +58,16 @@
 
 ## Credits
 
-[![Soul Techiezz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=blue)](https://github.com/pyrogram/pyrogram)
+* [![Soul Techiezz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=blue)](https://github.com/pyrogram/pyrogram)
 
-[Soul Techiezz](https://telegram.dog/SoulTechiezz)
+* [Soul Techiezz](https://telegram.dog/SoulTechiezz)
+
+* [HK](t.me/TheEvil_HK)
+
+* [PYTHON](www.python.org)
+
+* [GITHUB](www.github.com)
 
 ### Support
 
-[![Support Group](https://img.shields.io/badge/Soul-Techiezz-Support-blue?style=flat)](https://telegram.dog/SoulTechiezzSupport)
+* [Support Group](https://telegram.dog/SoulTechiezzSupport)
