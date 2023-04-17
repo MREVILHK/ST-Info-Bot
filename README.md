@@ -7,71 +7,40 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/MREVILHK/ST-Info-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MREVILHK/ST-Info-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/MREVILHK/ST-Info-Bot/fork">
+    <img src="https://img.shields.io/github/forks/MREVILHK/ST-Info-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![SoulTechiezz](https://img.shields.io/badge/SoulTechiezz-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/SoulTechiezz)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![SoulTechiezz](https://img.shields.io/badge/SoulTechiezz-Support-red?style=flat&logo=telegram)](https://telegram.dog/SoulTechiezzSupport)  [![SoulTechiezz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/MREVILHK/ST-Info-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MREVILHK/ST-Info-Bot)
 
 
+## Bot Commands
+
+/start - Check I am alive.
+/help  - To view this help section.
+/about - About me.
+/info  - Information About You.
+/id    - Your User ID
 
 
-
-#### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
-#### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-## How to use the bot
-* Add bot to your group with admin rights.
-
-* Add bot to all channels which you want to link with all admin rights!
-
-## Bot Commands - Works in Group only
-
-(You need to be a Auth User in order to use these commands)
-
-* /add channelid  -  Links channel to your group.
-or
-* /add @channelusername - Links channel to your group.
-
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
-
-
-* /del channelid  -  Delinks channel from group
-or
-* /del @channelusername  -  Delinks channel from group
-
-<i>NOTE : You can get connected channel details by /filterstats </i>
-
-
-* /delall  -  Removes all connected channels and filters from group!
-
-* /filterstats  -  Check connected channels and number of filters.
-
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [Soul Techiezz Support](https://telegram.dog/SoulTechiezzSupport)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MREVILHK/ST-Info-Bot)
 
 ### Deploy to Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/gy36Mu?referralCode=KmllT2)
@@ -95,4 +64,4 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Support
 
-[Support Group](https://telegram.dog/SoulTechiezzSupport)
+[![Support Group](https://telegram.dog/SoulTechiezzSupport)
