@@ -1,0 +1,27 @@
+{
+    "name": "ST Info Bot",
+    "description": "A Powerful Information Tam Tam bot",
+    "repository": "https://github.com/yadhuhari/ST-Info-Bot",
+    "keywords": [
+        "telegram",
+        "pyrogram",
+        "info",
+        "bot"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Bot token from @Botfather"
+        },
+        "SUPPORT_CHAT": {
+            "description": "Your CHAT Username Without @"
+        },
+        "USER_EMAIL": {
+            "description": "Your Email ID that sign up in Tam Tam"
+            "value" : ""
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
