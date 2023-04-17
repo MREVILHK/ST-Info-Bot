@@ -1,4 +1,4 @@
-# Auto Filter Bot V2
+# ST-Info-Bot
 
 <p align="center">
   <a href="https://www.python.org">
@@ -20,7 +20,7 @@
 
 [![SoulTechiezz](https://img.shields.io/badge/SoulTechiezz-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/SoulTechiezz)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![SoulTechiezz](https://img.shields.io/badge/SoulTechiezz-Support-red?style=flat&logo=telegram)](https://telegram.dog/SoulTechiezzSupport)  [![SoulTechiezz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![SoulTechiezz](https://img.shields.io/badge/SoulTechiezz-Support-red?style=flat&logo=telegram)](https://telegram.dog/SoulTechiezzSupport)  [![SoulTechiezz](https://img.shields.io/badge/Creator👨‍💻-red?style=flat&logo=CodersRank)](https://t.me/TheEvil_HK)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/MREVILHK/ST-Info-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MREVILHK/ST-Info-Bot)
 
