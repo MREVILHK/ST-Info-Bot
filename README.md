@@ -64,4 +64,4 @@
 
 ### Support
 
-[![Support Group](https://telegram.dog/SoulTechiezzSupport)
+[![Support Group](https://img.shields.io/badge/Soul-Techiezz-Support-blue?style=flat)](https://telegram.dog/SoulTechiezzSupport)
