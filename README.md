@@ -74,7 +74,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
 
 ### Deploy to Railway
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/gy36Mu?referralCode=KmllT2)
 
 
 ## Configs
