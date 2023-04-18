@@ -6,7 +6,7 @@ import random
 import datetime
 from pyrogram.errors import UserNotParticipant
 
-SOULTG = Client(
+HK = Client(
     "ST-Info-Bot",
     bot_token=os.environ.get("BOT_TOKEN"),
     api_hash=os.environ.get("API_HASH"),
@@ -36,33 +36,29 @@ Bot Commands
     
 ABOUT_MSG = """
 🤖 NAME      - ST INFO BOT
-👨‍💻 CREATOR   - [THIS PERSON](https://github.com/SOULTG/)
+👨‍💻 CREATOR   - [THIS PERSON](t.me/TheEvil_HK)
 ✏ LANGUAGE   - [PYTHON](www.python.org)
 📕 FRAMEWORK  - [PYROGRAM](www.pyrogram.org)
 📢 UPDATES    - [SOUL TECHIEZZ](t.me/SoulTechiezz)
 👥 SUPPORT    - [SUPPORT GROUP](t.me/SoulTechiezzSupport)
-💡 SOURCE CODE - [CLICK ME](https://github.com/SOULTG/ST-Info-Bot)
+💡 SOURCE CODE - [CLICK ME](https://github.com/MREVILHK/ST-Info-Bot)
 """
     
 PICS = [
- "https://telegra.ph/file/9e126bf7a3f665c66e5bc.jpg",
- "https://telegra.ph/file/2e855495d0e61ddfd9278.jpg",
- "https://telegra.ph/file/fa20fdd1fe520ca081a94.jpg",
- "https://telegra.ph/file/2fac2a130eb6313b79ad0.jpg",
- "https://telegra.ph/file/fb9e9676ca01c6052808a.jpg",
- "https://telegra.ph/file/03b0f392dd0658276e834.jpg",
- "https://telegra.ph/file/0d952075a7c56896b7dcf.jpg",
- "https://telegra.ph/file/c3317c8a72142f96e5aa2.jpg",
- "https://telegra.ph/file/81698b182a00a97697a22.jpg",
- "https://telegra.ph/file/93a1a4a50a1e3c3de3ddd.jpg",
- "https://telegra.ph/file/9b11ac6d5532f8477d5a1.jpg",
- "https://telegra.ph/file/a703f3ca0a01c804a4b52.jpg",
- "https://telegra.ph/file/ecb5aaeb78905afcb6737.jpg",
- "https://telegra.ph/file/79a8aceffd57df6c398b7.jpg",
- "https://telegra.ph/file/a160ba0221d7595b06846.jpg"
+ "https://telegra.ph/file/af70e7dc00143bfb02a9b.jpg",
+ "https://telegra.ph/file/d5844d488b9f87037f91d.jpg",
+ "https://telegra.ph/file/93c7fdd8366b1b803902c.jpg",
+ "https://telegra.ph/file/6ada2cada4ced48da2f58.jpg",
+ "https://telegra.ph/file/9ecd114ca46245b12778a.jpg",
+ "https://telegra.ph/file/be41355a8b68a4763273d.jpg",
+ "https://telegra.ph/file/feaf2dac1e87d70892175.jpg",
+ "https://telegra.ph/file/76fdc5f660c66ccb1e91e.jpg",
+ "https://telegra.ph/file/e883cc5ec5111ff8752d4.jpg",
+ "https://telegra.ph/file/cccc78224dca8951d006b.jpg",
+ "https://telegra.ph/file/be562b3308796b4fc42ff.jpg"
 ]
 
-@SOULTG.on_message(filters.private & filters.command("start"))
+@HK.on_message(filters.private & filters.command("start"))
 async def start(client, message):
     if force_channel:
         try:
@@ -85,14 +81,14 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup( [[
             InlineKeyboardButton("🤖 JOIN UPDATES CHANNEL 🤖", url="t.me/SoulTechiezz"),
             ],[
-            InlineKeyboardButton("CREATOR 👨‍💻", url="www.github.com/SOULTG"),
+            InlineKeyboardButton("CREATOR 👨‍💻", url="t.me/TheEvil_HK"),
             InlineKeyboardButton("SUPPORT 👥", url="t.me/SoulTechiezzSupport")
             ]]
             )
     )
 
 
-@SOULTG.on_message(filters.private & filters.command("help"))
+@HK.on_message(filters.private & filters.command("help"))
 async def help(client, message):
     await message.reply_photo(
         photo=random.choice(PICS),
@@ -100,14 +96,14 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup( [[
             InlineKeyboardButton("🤖 JOIN UPDATES CHANNEL 🤖", url="t.me/SoulTechiezz"),
             ],[
-            InlineKeyboardButton("CREATOR 👨‍💻", url="www.github.com/SOULTG"),
+            InlineKeyboardButton("CREATOR 👨‍💻", url="t.me/TheEvil_HK"),
             InlineKeyboardButton("SUPPORT 👥", url="t.me/SoulTechiezzSupport")
             ]]
             )
     )
 
 
-@SOULTG.on_message(filters.private & filters.command("about"))
+@HK.on_message(filters.private & filters.command("about"))
 async def about(client, message):
     await message.reply_photo(
         photo=random.choice(PICS),
@@ -115,13 +111,13 @@ async def about(client, message):
         reply_markup=InlineKeyboardMarkup( [[
             InlineKeyboardButton("🤖 JOIN UPDATES CHANNEL 🤖", url="t.me/SoulTechiezz"),
             ],[
-            InlineKeyboardButton("CREATOR 👨‍💻", url="www.github.com/SOULTG"),
+            InlineKeyboardButton("CREATOR 👨‍💻", url="t.me/TheEvil_HK"),
             InlineKeyboardButton("SUPPORT 👥", url="t.me/SoulTechiezzSupport")
             ]]
             )
     )
 
-@SOULTG.on_message(filters.private & filters.command("info"))
+@HK.on_message(filters.private & filters.command("info"))
 async def info(client, update):
     await update.reply_photo(
         photo=random.choice(PICS),
@@ -135,16 +131,17 @@ async def info(client, update):
         reply_markup=InlineKeyboardMarkup( [[
             InlineKeyboardButton("🤖 JOIN UPDATES CHANNEL 🤖", url="t.me/SoulTechiezz"),
             ],[
-            InlineKeyboardButton("CREATOR 👨‍💻", url="www.github.com/SOULTG"),
+            InlineKeyboardButton("CREATOR 👨‍💻", url="t.me/TheEvil_HK"),
             InlineKeyboardButton("SUPPORT 👥", url="t.me/SoulTechiezzSupport")
             ]]
             )
     )
+
         
 
 
 
-@SOULTG.on_message(filters.private & filters.command("id"))
+@HK.on_message(filters.private & filters.command("id"))
 async def id(client, message):
     await message.reply_text(        
         text=f"**Your ID :** {message.from_user.id}",
