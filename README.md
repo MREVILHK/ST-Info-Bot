@@ -27,11 +27,11 @@
 
 ## Bot Commands
 
-/start - Check I am alive.
-/help  - To view this help section.
-/about - About me.
-/info  - Information About You.
-/id    - Your User ID
+* /start - Check I am alive.
+* /help  - To view this help section.
+* /about - About me.
+* /info  - Information About You.
+* /id    - Your User ID
 
 
 ## Any bugs or errors or suggestions, report at [Soul Techiezz Support](https://telegram.dog/SoulTechiezzSupport)
